@@ -1,25 +1,26 @@
 import math
 # Rumus bangun
 
-def luas_persegipanjang(a, b):
-    return a * b
-def luas_lingkaran(radius):
-    return math.pi * radius ** 2
+class rumusnya:
+    def luas_persegipanjang(self, a, b):
+        return a * b
+    def luas_lingkaran(self, radius):
+        return math.pi * radius ** 2
 
-def keliling_lingkaran(radius):
-    return 2 * math.pi * radius
+    def keliling_lingkaran(self, radius):
+        return 2 * math.pi * radius
 
 
-# Rumusa hitungan
-def tambah(a, b):
-    return a + b
+    # Rumusa hitungan
+    def tambah(self, a, b):
+        return a + b
 
-def kurang(a, b):
-    return a - b
+    def kurang(self, a, b):
+        return a - b
 
-def kali(a, b):
-    return a * b
+    def kali(self, a, b):
+        return a * b
 
-def bagi(a, b):
-    return a / b
+    def bagi(self, a, b):
+        return a / b
 
