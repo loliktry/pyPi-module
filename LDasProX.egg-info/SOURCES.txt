@@ -1,0 +1,5 @@
+setup.py
+LDasProX.egg-info/PKG-INFO
+LDasProX.egg-info/SOURCES.txt
+LDasProX.egg-info/dependency_links.txt
+LDasProX.egg-info/top_level.txt
